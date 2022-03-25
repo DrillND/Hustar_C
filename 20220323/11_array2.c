@@ -37,6 +37,6 @@ int main()
     
     printf("\n");
     // printf("%d", cnt);
-    printf("sum = %d cnt = %d average = %d", sum, cnt - 1, sum / (cnt - 1));
+    printf("sum = %d cnt = %d average = %.3f", sum, cnt - 1, (float)sum / (cnt - 1));
     return 0;
 }
