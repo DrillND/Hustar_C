@@ -16,7 +16,8 @@ int main()
     printf("제품명과 가격을 입력 : ");
     scanf("%s%d",producta.pro_name, &producta.pro_value);
     int sum = producta.pro_value + productb.pro_value;
-    //productb.pro_name="RaRa";
+    productb.pro_name[1]="K";
+    *productb.pro_name="radio";
 
     printf("\n\n");
 
