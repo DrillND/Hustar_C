@@ -1,0 +1,52 @@
+#define TRUE 1
+#define FALSE 0
+
+#define NONE 0
+#define BLACK 1
+#define BLUE 2
+#define GREEN 3
+#define YELLOW 4
+#define RED 5
+#define WHITE 6
+#define BROWN 7
+
+#define LED_OFF 0
+#define LED_GREEN 1
+#define LED_RED 2
+#define LED_ORANGE 3
+#define LED_GREEN_FLASH 4
+#define LED_RED_FLASH 5
+#define LED_ORANGE_FLASH 6
+#define LED_GREEN_PULSE 7
+#define LED_RED_PULSE 8
+#define LED_ORANGE_PULSE 9
+
+#define LOW_C 523
+#define LOW_C_SHARP 554
+#define LOW_D 587
+#define LOW_D_SHARP 622
+#define LOW_E 659
+#define LOW_F 699
+#define LOW_F_SHARP 740
+#define LOW_G 784
+#define LOW_G_SHARP 831
+#define LOW_A 880
+#define LOW_A_SHARP 932
+#define LOW_B 988
+#define HIGH_C 1047
+#define HIGH_C_SHARP 1109
+#define HIGH_D 1175
+#define HIGH_D_SHARP 1245
+#define HIGH_E 1319
+#define HIGH_F 1397
+#define HIGH_F_SHARP 1475
+#define HIGH_G 1568
+#define HIGH_G_SHARP 1661
+#define HIGH_A 1760
+#define HIGH_A_SHARP 1865
+#define HIGH_B 1976
+
+#define MSEC_0_05 50
+#define MSEC_0_10 100
+#define MSEC_0_50 500
+#define MSEC_1_00 1000
